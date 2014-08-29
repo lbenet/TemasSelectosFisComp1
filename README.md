@@ -30,4 +30,6 @@ Normalmente usaré el IJulia notebook en clase, que limpiaré un poco antes de p
 Para aquéllos que no han logrado instalar IJulia —¡sigan tratando!— incluiré también un
 archivo ".jl" con los comandos esenciales del notebook. Así, entre otras cosas, será
 más fácil cargar la clase anterior. Para poder visualizar los IJulia notebooks se puede
-utilizar [NBviewer](http://nbviewer.ipython.org/github/lbenet/http://nbviewer.ipython.org/github/lbenet/TemasSelectosFisComp1/tree/master/).
+utilizar [NBviewer][1].
+
+[1]: http://nbviewer.ipython.org/github/lbenet/TemasSelectosFisComp1/tree/master/
